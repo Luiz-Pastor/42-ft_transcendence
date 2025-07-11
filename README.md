@@ -18,7 +18,7 @@ You can see the subject [**HERE.**](https://github.com/MGuardia10/42cursus/blob/
 
 1- Clone this repository
 	
-	git clone https://github.com/Luiz-Pastor/ft_trascendence.git
+	git clone https://github.com/Luiz-Pastor/42-ft_transcendence.git
 2- Create a new `.env` file and fill all the variables listed on `.env.example`
 
 3- Navigate to the new directory and run `make`
